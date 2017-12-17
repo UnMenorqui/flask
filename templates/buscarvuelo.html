@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Search Flight</title>
+        
+        <link rel="stylesheet" href="/static/style.css" type="text/css">
+        <link rel="stylesheet" href="/static/tabla.css" type="text/css">
+        <link rel="stylesheet" href="/static/menu.css" type="text/css">
+        
+    </head>
+    <body>
+        <form action="do_buscarvuelo" method="post">
+             
+            <ul>
+            <li><a href="menu">Home</a></li>
+            <li class="dropdown">
+                <a href="#">Flights</a>
+                <div class="dropdown-content">
+                    <a href="altavuelo">Register Flight</a>
+                    <a href="buscarvuelo">Search Flight</a>
+                    <a href="consultaplazasvuelo">Check free flight seats</a>
+                    <a href="reservaplazavuelo">Book seat in flight</a>
+                </div> 
+            </li>
+            
+           <li class="dropdown">
+                <a href="#">Hotels</a>
+                <div class="dropdown-content">
+                    <a href="altahotel">Register Hotel</a>
+                    <a href="buscarhotel">Search Hotel</a>
+                    <a href="consultahabitaciones">Check free rooms</a>
+                    <a href="reservahabitacion">Reserve Room</a>
+                </div> 
+            </li>
+            <li><a href="logout">Log Out</a></li>
+        </ul>
+            
+            <div class="container">
+                <div class="login-box">
+                    <div class="box-header">
+                        <h2>Search Flight</h2>
+                    </div>
+                    <label for="numerovuelo"> Flight Number </label>
+                    <br/>
+                    <input type="number" name="numero"/>
+                    <br/>
+                    <label for="compañia"> Company </label>
+                    <br/>
+                    <input type="text" name="companyia"/>
+                    <br/>
+                    <label for="origen"> Origin </label>
+                    <br/>
+                    <input type="text" name="origen" />
+                    <br/>
+                    <label for="destino"> Destination </label>
+                    <br/>
+                    <input type="text" name="destino"/>
+                    <br/>
+                    <button type="submit">Search Flight</button>
+                    <br/>
+                </div>   
+            </div>
+        </form>
+    </body>
+</html>
+    </body>
+</html>
