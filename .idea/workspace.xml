@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4a1ddd4-6d96-4406-a275-dfe9afd479e6" name="Default" comment="" />
+    <list default="true" id="f4a1ddd4-6d96-4406-a275-dfe9afd479e6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app.py" afterPath="$PROJECT_DIR$/app.py" />
+      <change beforePath="$PROJECT_DIR$/templates/altahotel.html" afterPath="$PROJECT_DIR$/templates/altahotel.html" />
+      <change beforePath="$PROJECT_DIR$/templates/altavuelo.html" afterPath="$PROJECT_DIR$/templates/altavuelo.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,35 +21,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="107" column="38" lean-forward="true" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
+            <state relative-caret-position="354">
+              <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
               <folding>
-                <element signature="e#19#141#0" expanded="true" />
-                <marker date="1513100046164" expanded="true" signature="797:839" ph="SELECT * FRO... USUARIOS" />
-                <marker date="1513100046164" expanded="true" signature="1042:1091" ph="SELECT passw... USUARIOS" />
-                <marker date="1513100046164" expanded="true" signature="1305:1362" ph="INSERT INTO USUARIOS... " />
-                <marker date="1513100046164" expanded="true" signature="1630:1729" ph="CREATE TABLE... USUARIOS" />
-                <marker date="1513100046164" expanded="true" signature="1756:1892" ph="CREATE TABLE... VUELOS" />
-                <marker date="1513100046164" expanded="true" signature="1919:2118" ph="CREATE TABLE... HOTELES" />
-                <marker date="1513100046164" expanded="true" signature="3782:3834" ph="INSERT INTO USERS... " />
-                <marker date="1513100046164" expanded="true" signature="3782:3837" ph="INSERT INTO USERS... " />
-                <marker date="1513100046164" expanded="true" signature="3782:3839" ph="INSERT INTO USERS... " />
+                <marker date="1513521001741" expanded="true" signature="655:704" ph="SELECT passw... USUARIOS" />
+                <marker date="1513521001741" expanded="true" signature="841:883" ph="SELECT * FRO... USUARIOS" />
+                <marker date="1513521001741" expanded="true" signature="1184:1289" ph="CREATE TABLE... IF" />
+                <marker date="1513521001741" expanded="true" signature="1316:1464" ph="CREATE TABLE... IF" />
+                <marker date="1513521001741" expanded="true" signature="1491:1711" ph="CREATE TABLE... IF" />
+                <marker date="1513521001741" expanded="true" signature="2719:2776" ph="INSERT INTO USUARIOS... " />
+                <marker date="1513521001741" expanded="true" signature="3528:3605" ph="INSERT INTO VUELOS... " />
+                <marker date="1513521001741" expanded="true" signature="4666:4781" ph="INSERT INTO HOTELES... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="select-vuelos.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BD/select-vuelos.py">
+      <file leaf-file-name="altahotel.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/altahotel.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
-              <folding>
-                <marker date="1512485652000" expanded="true" signature="85:123" ph="SELECT * FRO... VUELOS" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="altavuelo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/altavuelo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="error.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/error.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,34 +74,8 @@
         <entry file="file://$PROJECT_DIR$/BD/select-users.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="71" lean-forward="true" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="83" />
-              <folding>
-                <marker date="1512485543000" expanded="true" signature="88:133" ph="SELECT PASSW... USERS" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="select-hoteles.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BD/select-hoteles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1512485627000" expanded="true" signature="85:124" ph="SELECT * FRO... HOTELES" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="insert-vuelos.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BD/insert-vuelos.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="54" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-              <folding>
-                <marker date="1512485339000" expanded="true" signature="65:171" ph="INSERT INTO USERS... " />
-              </folding>
+              <caret line="5" column="71" lean-forward="false" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="83" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,27 +84,13 @@
         <entry file="file://$PROJECT_DIR$/BD/insert-users.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <marker date="1513099238693" expanded="true" signature="74:139" ph="INSERT INTO USERS... " />
-              </folding>
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="insert-hoteles.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BD/insert-hoteles.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="77" lean-forward="false" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
-              <folding>
-                <marker date="1512485437000" expanded="true" signature="65:222" ph="INSERT INTO USERS... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/register.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -117,16 +100,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bd.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BD/bd.py">
+      <file leaf-file-name="insert-hoteles.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BD/insert-hoteles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="49" />
-              <folding>
-                <marker date="1512485778000" expanded="true" signature="67:158" ph="CREATE TABLE... USUARIOS" />
-                <marker date="1512485778000" expanded="true" signature="181:301" ph="CREATE TABLE... VUELOS" />
-                <marker date="1512485778000" expanded="true" signature="324:495" ph="CREATE TABLE... HOTELES" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="77" lean-forward="false" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -134,8 +113,18 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="50" />
+            <state relative-caret-position="420">
+              <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/menu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -147,7 +136,13 @@
     <findStrings>
       <find>BD</find>
       <find>bd</find>
+      <find>/home</find>
+      <find>home</find>
+      <find>menu</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -158,6 +153,8 @@
         <option value="$PROJECT_DIR$/BD/insert-users.py" />
         <option value="$PROJECT_DIR$/BD/insert-hoteles.py" />
         <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/altahotel.html" />
+        <option value="$PROJECT_DIR$/templates/altavuelo.html" />
       </list>
     </option>
   </component>
@@ -170,6 +167,9 @@
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -186,7 +186,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,12 +208,13 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -277,23 +277,23 @@
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -310,44 +310,65 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="69" column="38" lean-forward="false" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#19#141#0" expanded="true" />
-            <marker date="1513100046164" expanded="true" signature="797:839" ph="SELECT * FRO... USUARIOS" />
-            <marker date="1513100046164" expanded="true" signature="1042:1091" ph="SELECT passw... USUARIOS" />
-            <marker date="1513100046164" expanded="true" signature="1305:1362" ph="INSERT INTO USUARIOS... " />
-            <marker date="1513100046164" expanded="true" signature="1630:1729" ph="CREATE TABLE... USUARIOS" />
-            <marker date="1513100046164" expanded="true" signature="1756:1892" ph="CREATE TABLE... VUELOS" />
-            <marker date="1513100046164" expanded="true" signature="1919:2118" ph="CREATE TABLE... HOTELES" />
-            <marker date="1513100046164" expanded="true" signature="3782:3834" ph="INSERT INTO USERS... " />
-            <marker date="1513100046164" expanded="true" signature="3782:3837" ph="INSERT INTO USERS... " />
-            <marker date="1513100046164" expanded="true" signature="3782:3839" ph="INSERT INTO USERS... " />
+            <marker date="1513521001741" expanded="true" signature="655:704" ph="SELECT passw... USUARIOS" />
+            <marker date="1513521001741" expanded="true" signature="841:883" ph="SELECT * FRO... USUARIOS" />
+            <marker date="1513521001741" expanded="true" signature="1184:1289" ph="CREATE TABLE... IF" />
+            <marker date="1513521001741" expanded="true" signature="1316:1464" ph="CREATE TABLE... IF" />
+            <marker date="1513521001741" expanded="true" signature="1491:1711" ph="CREATE TABLE... IF" />
+            <marker date="1513521001741" expanded="true" signature="2719:2776" ph="INSERT INTO USUARIOS... " />
+            <marker date="1513521001741" expanded="true" signature="3528:3605" ph="INSERT INTO VUELOS... " />
+            <marker date="1513521001741" expanded="true" signature="4666:4781" ph="INSERT INTO HOTELES... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.html">
+    <entry file="file://$PROJECT_DIR$/BD/select-vuelos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BD/select-hoteles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BD/select-users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="71" lean-forward="true" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BD/insert-vuelos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="54" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BD/insert-users.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/style.css">
+    <entry file="file://$PROJECT_DIR$/BD/insert-hoteles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/login.jsp" />
-    <entry file="file://$PROJECT_DIR$/static/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="77" lean-forward="false" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
           <folding />
         </state>
       </provider>
@@ -364,71 +385,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="49" />
-          <folding>
-            <marker date="1512485778000" expanded="true" signature="67:158" ph="CREATE TABLE... USUARIOS" />
-            <marker date="1512485778000" expanded="true" signature="181:301" ph="CREATE TABLE... VUELOS" />
-            <marker date="1512485778000" expanded="true" signature="324:495" ph="CREATE TABLE... HOTELES" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BD/select-vuelos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
-          <folding>
-            <marker date="1512485652000" expanded="true" signature="85:123" ph="SELECT * FRO... VUELOS" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BD/select-hoteles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1512485627000" expanded="true" signature="85:124" ph="SELECT * FRO... HOTELES" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BD/insert-vuelos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="54" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-          <folding>
-            <marker date="1512485339000" expanded="true" signature="65:171" ph="INSERT INTO USERS... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BD/insert-users.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <marker date="1513099238693" expanded="true" signature="74:139" ph="INSERT INTO USERS... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BD/insert-hoteles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="77" lean-forward="false" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
-          <folding>
-            <marker date="1512485437000" expanded="true" signature="65:222" ph="INSERT INTO USERS... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BD/select-users.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="71" lean-forward="true" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="83" />
-          <folding>
-            <marker date="1512485543000" expanded="true" signature="88:133" ph="SELECT PASSW... USERS" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -442,20 +399,162 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="107" column="38" lean-forward="true" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
+        <state relative-caret-position="990">
+          <caret line="69" column="38" lean-forward="false" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
           <folding>
-            <element signature="e#19#141#0" expanded="true" />
-            <marker date="1513100046164" expanded="true" signature="797:839" ph="SELECT * FRO... USUARIOS" />
-            <marker date="1513100046164" expanded="true" signature="1042:1091" ph="SELECT passw... USUARIOS" />
-            <marker date="1513100046164" expanded="true" signature="1305:1362" ph="INSERT INTO USUARIOS... " />
-            <marker date="1513100046164" expanded="true" signature="1630:1729" ph="CREATE TABLE... USUARIOS" />
-            <marker date="1513100046164" expanded="true" signature="1756:1892" ph="CREATE TABLE... VUELOS" />
-            <marker date="1513100046164" expanded="true" signature="1919:2118" ph="CREATE TABLE... HOTELES" />
-            <marker date="1513100046164" expanded="true" signature="3782:3834" ph="INSERT INTO USERS... " />
-            <marker date="1513100046164" expanded="true" signature="3782:3837" ph="INSERT INTO USERS... " />
-            <marker date="1513100046164" expanded="true" signature="3782:3839" ph="INSERT INTO USERS... " />
+            <marker date="1513521001741" expanded="true" signature="655:704" ph="SELECT passw... USUARIOS" />
+            <marker date="1513521001741" expanded="true" signature="841:883" ph="SELECT * FRO... USUARIOS" />
+            <marker date="1513521001741" expanded="true" signature="1184:1289" ph="CREATE TABLE... IF" />
+            <marker date="1513521001741" expanded="true" signature="1316:1464" ph="CREATE TABLE... IF" />
+            <marker date="1513521001741" expanded="true" signature="1491:1711" ph="CREATE TABLE... IF" />
+            <marker date="1513521001741" expanded="true" signature="2719:2776" ph="INSERT INTO USUARIOS... " />
+            <marker date="1513521001741" expanded="true" signature="3528:3605" ph="INSERT INTO VUELOS... " />
+            <marker date="1513521001741" expanded="true" signature="4666:4781" ph="INSERT INTO HOTELES... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.jsp" />
+    <entry file="file://$PROJECT_DIR$/static/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BD/bd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BD/select-vuelos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BD/select-hoteles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BD/insert-vuelos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BD/insert-users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BD/insert-hoteles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="77" lean-forward="false" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BD/select-users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="71" lean-forward="false" selection-start-line="5" selection-start-column="71" selection-end-line="5" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+          <folding>
+            <marker date="1513521001741" expanded="true" signature="655:704" ph="SELECT passw... USUARIOS" />
+            <marker date="1513521001741" expanded="true" signature="841:883" ph="SELECT * FRO... USUARIOS" />
+            <marker date="1513521001741" expanded="true" signature="1184:1289" ph="CREATE TABLE... IF" />
+            <marker date="1513521001741" expanded="true" signature="1316:1464" ph="CREATE TABLE... IF" />
+            <marker date="1513521001741" expanded="true" signature="1491:1711" ph="CREATE TABLE... IF" />
+            <marker date="1513521001741" expanded="true" signature="2719:2776" ph="INSERT INTO USUARIOS... " />
+            <marker date="1513521001741" expanded="true" signature="3528:3605" ph="INSERT INTO VUELOS... " />
+            <marker date="1513521001741" expanded="true" signature="4666:4781" ph="INSERT INTO HOTELES... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/altahotel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/altavuelo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="87" lean-forward="false" selection-start-line="24" selection-start-column="78" selection-end-line="24" selection-end-column="87" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -32,6 +32,11 @@ def exist_user(user):
         conn.close()
         return True
 
+@app.route('/menu')
+def menu():
+    return render_template('menu.html')
+
+
 @app.route('/')
 def home():
     conn = sqlite3.connect('users.bd')
@@ -69,6 +74,7 @@ def sign_in():
         else:
             return jsonify(success=False)
     return jsonify(success=False)
+
 
 
 @app.route('/register')
